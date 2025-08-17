@@ -79,7 +79,3 @@ Replace `<server_ip>` with the IP address of the server.
 
 - Ensure all WAV files are present in the respective station folders.
 - The server and client must be on the same network for multicast to work.
-
-## License
-
-This project is for educational purposes.
